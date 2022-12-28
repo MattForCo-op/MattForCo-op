@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MattForCo-op
+- 👋 Hi, I’m Matt Powell from Forester's Co-op
 - 👀 I’m interested in software development, automation, AI, and GIS development.
 - 🌱 I’m currently learning python and GIS automation.
 - 💞️ I’m looking to collaborate on GIS automation and software development.
